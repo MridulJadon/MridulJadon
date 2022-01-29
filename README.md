@@ -9,15 +9,15 @@
 
 - 👨‍💻 DRIVEN, METICULOUS, RELIABLE 
 
-- 🔭 I’m currently working on **Share A Meal Application.**
-- 🌱 I’m currently working towards **Data Science Projects.** 
+- 🔭 I’m currently working on **Share A Meal Application using Android Suite.**
+- 🌱 I’m currently working towards **Software Development Projects.** 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
 - 📫 How to reach me **mriduljadon33@gmail.com**
 
-- ⚡ Fun fact **I play games and become a poet by the EOD.**
+- ⚡ Fun fact **I play games during and become a poet by the EOD.**
 
 ## 🚀 Languages and Tools:
 
