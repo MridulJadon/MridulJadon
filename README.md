@@ -1,7 +1,6 @@
 ![mridul-banner](https://user-images.githubusercontent.com/42316294/122282934-9ec07380-cf09-11eb-95b1-2025869f81c1.gif)
 
-#### Mridul Jadon
-# Initializing handshake protocol.. !!
+# Initializing handshaking protocol.. !!
 
 <h1 align="center" style="display:none;"></h1>
 
@@ -60,8 +59,8 @@
  
 ---
 <p align="center">
-    <a href="https://github.com/MridulJadon/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mridul Jadon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MridulJadon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+<a href="https://github.com/MridulJadon/github-readme-streak-stats">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mridul Jadon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MridulJadon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a>
 </p>
 
@@ -75,11 +74,6 @@
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
-
-<br/>
-
-
-<br/>
 <br/>
 
 ---
@@ -88,5 +82,4 @@
     <img src="https://komarev.com/ghpvc/?username=MridulJadon">
 </a>
 <a href="https://github.com/MridulJadon?tab=followers"><img src="https://img.shields.io/github/followers/MridulJadon?label=Followers&style=social" alt="GitHub Badge"></a>
-
 ---
