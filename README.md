@@ -64,8 +64,8 @@
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
-❤ Views and Followers
 <br/>
+❤ Views and Followers
 <br/>
 <a href="https://github.com/MridulJadon/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MridulJadon">
