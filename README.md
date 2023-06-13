@@ -67,6 +67,6 @@
 ❤ Views and Followers
 <a href="https://github.com/MridulJadon/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MridulJadon">
+<br/>
 </a>
 <a href="https://github.com/MridulJadon?tab=followers"><img src="https://img.shields.io/github/followers/MridulJadon?label=Followers&style=social" alt="GitHub Badge"></a>
----
